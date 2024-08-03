@@ -1,36 +1,36 @@
 export const routes = [
 	{
-		title: "Demo",
+		title: "Opsway",
 		href: "#",
 		subRoutes: [
 			{
 				title: "Design Agency",
 				href: "",
 			},
-			{
-				title: "Startup Agency",
-				href: "home-two",
-			},
-			{
-				title: "SEO Agency",
-				href: "home-three",
-			},
-			{
-				title: "Business Consultation",
-				href: "home-four",
-			},
-			{
-				title: "Digital Marketing",
-				href: "home-five",
-			},
-			{
-				title: "Interior Design Agency",
-				href: "home-six",
-			},
-			{
-				title: "Advertising agency",
-				href: "home-seven",
-			},
+			//{
+			//	title: "Startup Agency",
+			//	href: "home-two",
+			//},
+			//{
+			//	title: "SEO Agency",
+			//	href: "home-three",
+			//},
+			//{
+			//	title: "Business Consultation",
+			//	href: "home-four",
+			//},
+			//{
+			//	title: "Digital Marketing",
+			//	href: "home-five",
+			//},
+			//{
+			//	title: "Interior Design Agency",
+			//	href: "home-six",
+			//},
+			//{
+			//	title: "Advertising agency",
+			//	href: "home-seven",
+			//},
 		],
 	},
 	{
@@ -38,8 +38,8 @@ export const routes = [
 		href: "about-us",
 	},
 	{
-		title: "Pages",
-		href: "#",
+		title: "Service",
+		href: "service",
 		subRoutes: [
 			{
 				title: "About Us",
@@ -157,21 +157,21 @@ export const routes = [
 	},
 	{
 		title: "Blog",
-		href: "blog",
-		subRoutes: [
-			{
-				title: "Blog",
-				href: "blog",
-			},
-			{
-				title: "Blog Grid",
-				href: "blog-grid",
-			},
-			{
-				title: "Blog Details",
-				href: "single-blog",
-			},
-		],
+		href: "blog-grid",
+		//subRoutes: [
+		//	{
+		//		title: "Blog",
+		//		href: "blog",
+		//	},
+		//	{
+		//		title: "Blog Grid",
+		//		href: "blog-grid",
+		//	},
+		//	{
+		//		title: "Blog Details",
+		//		href: "single-blog",
+		//	},
+		//],
 	},
 	{
 		title: "Contact Us",
