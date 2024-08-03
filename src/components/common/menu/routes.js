@@ -31,7 +31,7 @@ export const routes = [
 			//	title: "Advertising agency",
 			//	href: "home-seven",
 			//},
-		],
+		//],
 	},
 	{
 		title: "About Us",
