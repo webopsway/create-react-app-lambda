@@ -16,7 +16,7 @@ function Story() {
 						worth sharing with you
 					</h2>
 					<p>
-						Créer en 2024 ..... 
+						Established in 2008, we began as a small but ambitious team. We understood the importance of
 						creative and tech-savvy solutions to help businesses succeed in the ever-changing digital
 						landscape.
 					</p>
